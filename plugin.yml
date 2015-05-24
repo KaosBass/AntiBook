@@ -1,0 +1,10 @@
+name: AntiBook
+version: 1.0
+main: me.mccoder.com.AntiBook
+author: McCoder
+description: Fixes an exploit with JSON books
+commands:
+  filter:
+    aliases: [bookfilter, filterbook]
+    usage: /<command>
+    permission: antibook.filter
