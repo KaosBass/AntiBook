@@ -1,10 +1,10 @@
-# HeroVerseMC
-HeroVerseMC's new plugin.
+# AntiBook
+AntiBook- Designed to stop your server geting hacked by a book...
 
 
 # Copyright
-Copyright (C) 2015 - Samuel McCoder and the HeroVerseMC's project team - All Rights Reserved<br>
-If you have any issues or questions about this repository, please leave a post in this repositories issues section, which can be found <a href="https://github.com/KaosBass/HeroVerseMC/issues">here</a>.<br>
+Copyright (C) 2015 - Samuel (McCoder) - All Rights Reserved<br>
+If you have any issues or questions about this repository, please leave a post in this repositories issues section, which can be found <a href="https://github.com/KaosBass/AntiBook/issues">here</a>.<br>
 Ensure to read the license section below before using any of this project.<br>
 
 
